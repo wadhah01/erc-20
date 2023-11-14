@@ -6,8 +6,8 @@ Exercise
 Assurez-vous d'avoir Node.js et npm installés sur votre machine.
 
 ## Installation
-   git clone https://github.com/wadhah01/exercise.git
-   cd exercise 
+   git clone https://github.com/wadhah01/exercise.git <br>
+   cd exercise <br>
    npm i 
    npm run dev 
  ## Fonctionnalités
