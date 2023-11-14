@@ -8,8 +8,8 @@ Assurez-vous d'avoir Node.js et npm installés sur votre machine.
 ## Installation
    git clone https://github.com/wadhah01/exercise.git <br>
    cd exercise <br>
-   npm i 
-   npm run dev 
+   npm i <br>
+   npm run dev <br>
  ## Fonctionnalités
 1-Connexion au Portefeuille
 Implémente une fonctionnalité pour se connecter à un portefeuille Ethereum via MetaMask.
@@ -24,6 +24,6 @@ Conçoit un formulaire permettant aux utilisateurs d'envoyer le token ERC-20 à 
 Inclut des champs de saisie pour l'adresse du destinataire et la quantité de tokens à envoyer.
 Exécute le transfert lorsque l'utilisateur soumet le formulaire et affiche les mises à jour du statut de la transaction (en attente, terminée ou erreur).
  ## à ajouter 
- 1-Historique des Transactions : Ajoutez une fonctionnalité qui permet aux utilisateurs de consulter l'historique de leurs transactions passées.
- 2-Interface Utilisateur Améliorée : Ajoutez des améliorations visuelles pour rendre l'interface utilisateur plus attrayante et conviviale.
- 3-Gestion des Tokens Multiples : Permettez aux utilisateurs de gérer plusieurs types de tokens ERC-20 dans la même interface.
+ 1-Historique des Transactions : Ajoutez une fonctionnalité qui permet aux utilisateurs de consulter l'historique de leurs transactions passées.<br>
+ 2-Interface Utilisateur Améliorée : Ajoutez des améliorations visuelles pour rendre l'interface utilisateur plus attrayante et conviviale.<br>
+ 3-Gestion des Tokens Multiples : Permettez aux utilisateurs de gérer plusieurs types de tokens ERC-20 dans la même interface.<br>
