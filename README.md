@@ -1,6 +1,7 @@
 # Nom du Projet
 
-Exercise 
+erc-20
+
 ## Prérequis
 
 Assurez-vous d'avoir Node.js et npm installés sur votre machine.
